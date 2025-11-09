@@ -3,8 +3,7 @@
 **Materia:** Minería de Datos  
 **Actividad:** Data Visualization and Dashboard Deployment  
 **Universidad:** Universidad de la Costa  
-**Programa:** Ingeniería de sistema
-**Materia:** Minería de Datos
+**Programa:** Ingeniería de sistema  
 **Integrantes:**  
 - Hernando Luiz Calvo Ochoa  
 - Carlos Antonio Ardila Ruiz  
