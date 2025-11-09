@@ -1,16 +1,29 @@
-# Dashboard - Universidad de la Costa (Actividad)
-Integrantes: Hernando Luiz Calvo Ochoa, Carlos Antonio Ardila Ruiz
-Programa: Minería de Datos
+# Dashboard Analítico - Universidad de la Costa
 
-Instrucciones:
-1. Coloca `university_student_data.csv` en la raíz del repositorio.
-2. Ejecuta: `pip install -r requirements.txt`
-3. Para correr localmente: `streamlit run app.py`
-4. Para desplegar en Streamlit Cloud: conecta tu repositorio de GitHub a Streamlit Cloud y publica.
+**Materia:** Minería de Datos  
+**Actividad:** Data Visualization and Dashboard Deployment  
+**Universidad:** Universidad de la Costa  
+**Programa:** Ingeniería de sistema
+**Materia:** Minería de Datos
+**Integrantes:**  
+- Hernando Luiz Calvo Ochoa  
+- Carlos Antonio Ardila Ruiz  
 
-Archivos incluidos:
-- app.py: código del dashboard con filtros y visualizaciones.
-- requirements.txt
-- README.md
-- Informe.docx (resumen de 1 página)
-- Imágenes generadas con análisis preliminar.
+
+##  Descripción del proyecto
+Este proyecto tiene como objetivo analizar la información de admisión, matrícula, retención y satisfacción de los estudiantes de una universidad, con el fin de mostrar los resultados mediante un **dashboard interactivo** desarrollado en **Streamlit**.
+
+A partir del conjunto de datos `university_student_data.csv`, se realizó un análisis exploratorio en **Google Colab** y luego se construyó un panel que permite visualizar indicadores clave y compararlos por año o periodo académico.
+
+
+## Contenido del repositorio
+- `app.py` → código principal del dashboard en Streamlit.  
+- `requirements.txt` → librerías necesarias para ejecutar el proyecto.  
+- `Colab_Notebook.ipynb` → notebook con el análisis exploratorio de datos.  
+- `Informe_Actividad.docx` → informe resumen con los hallazgos y conclusiones.  
+- `university_student_data.csv` → archivo de datos usado.  
+
+
+
+pip install -r requirements.txt
+
