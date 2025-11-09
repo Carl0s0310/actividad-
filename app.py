@@ -12,7 +12,7 @@ st.set_page_config(layout="wide", page_title="Dashboard - Universidad de la Cost
 def load_data(path):
     return pd.read_csv(path)
 
-df = load_data("/mnt/data/university_student_data.csv")
+df = load_data("university_student_data.csv")
 
 st.title("Dashboard: Admisión · Retención · Satisfacción")
 st.write("Universidad de la Costa — Programa Minería de Datos")
