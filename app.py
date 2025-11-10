@@ -73,4 +73,3 @@ if 'Term' in df.columns and 'Student Satisfaction (%)' in df.columns:
     st.pyplot(fig)
 
 st.write("---")
-st.write("Repositorio y despliegue: sube este repo a GitHub y luego conéctalo a Streamlit Cloud (https://streamlit.io/cloud)")
